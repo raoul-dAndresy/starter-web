@@ -2,8 +2,8 @@
 
 This is a simple website project
 
-## Starter Web Repo
-
+## Introduction
+This is an introduction
 
 ## Purpose
 
