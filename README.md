@@ -7,9 +7,11 @@ This is an introduction
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is the purpose text
 
 ## Deployment
+
+This is the deployment section
 
 ## Starter Web Repo
 
