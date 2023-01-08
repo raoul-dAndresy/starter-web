@@ -12,6 +12,7 @@ This is the purpose text
 ## Deployment
 
 This is the deployment section
+Please fork this repository and then issue pull request for review
 
 ## Starter Web Repo
 
