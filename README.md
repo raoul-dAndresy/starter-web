@@ -15,3 +15,4 @@ This is the deployment section
 
 ## Starter Web Repo
 
+COPYRIGHT
