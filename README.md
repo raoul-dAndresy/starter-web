@@ -19,3 +19,4 @@ Please fork this repository and then issue pull request for review
 ## Starter Web Repo
 
 COPYRIGHT
+All rights reserved
