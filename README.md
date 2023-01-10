@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project
-Adding a line for rebasing example.
-more changes from myfeature branch too
+Emergency fix
 
 ## Introduction
 This is an introduction
